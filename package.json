@@ -1,0 +1,13 @@
+{
+  "name": "iceman-website-hub",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ICEMAN Website Generator Hub",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
